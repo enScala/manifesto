@@ -1,0 +1,2 @@
+# manifesto
+enScala organization Manifesto
